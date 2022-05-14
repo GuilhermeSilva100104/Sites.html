@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pr-br">
+    <head>
+        <title>FLYNT</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width-device-width, initial-scale=1">
+
+        <style>
+            body {
+              font-family: Georgia, 'Times New Roman', Times, serif;
+              margin: 0;
+              background: #f1f1f1;
+            }
+            
+            
+            header{
+                text-align: center;
+                background-color: grey;
+                padding: 30px;
+            }
+
+            header h1{
+                font-size: 50px;
+                color: black;
+            }
+
+            nav ul {
+                list-style-type: none;
+                background-color: black;
+                overflow: hidden;
+                margin: 0;
+                padding: 0;
+            }
+
+            nav a {
+                color: white;
+                text-decoration: none;
+                padding: 16px;
+                display: block;
+            }
+
+            nav li {
+                float: left;
+            }
+
+            nav a:hover {
+                background-color: white;
+                color: black;
+            }
+        </style>
+    </head>
+    <body>
+       <header>
+           <h1>FLYNT</h1>
+       </header>
+       <nav>
+          <ul>
+              <li><a href="Masculino.html" target="_blank">Masculino</a></li>
+              <li><a href="Feminino.html" target="_blank">Feminino</a></li>
+              <li><a href="Infantil.html" target="_blank">Infantil</a></li>
+          </ul>
+       </nav>
+       <section>
+           Seção de informações do site
+          <article>
+              Artigo 01
+          </article>
+          <article>
+            Artigo 02
+        </article>
+      </section>
+      <aside>
+          Barra Lateral
+      </aside>
+      <footer>
+          Rodapé
+      </footer>
+    </body>
+</html>
