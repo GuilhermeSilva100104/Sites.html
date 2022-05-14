@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pr-br">
     <head>
-        <title>FLYNT</title>
+        <title>SEU TITULO</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width-device-width, initial-scale=1">
 
@@ -51,13 +51,13 @@
     </head>
     <body>
        <header>
-           <h1>FLYNT</h1>
+           <h1>SEU TITULO</h1>
        </header>
        <nav>
           <ul>
-              <li><a href="Masculino.html" target="_blank">Masculino</a></li>
-              <li><a href="Feminino.html" target="_blank">Feminino</a></li>
-              <li><a href="Infantil.html" target="_blank">Infantil</a></li>
+              <li><a href="Masculino.html" target="_blank">QUALQUER COISA</a></li>
+              <li><a href="Feminino.html" target="_blank">QUALQUER COISA</a></li>
+              <li><a href="Infantil.html" target="_blank">QUALQUER COISA</a></li>
           </ul>
        </nav>
        <section>
